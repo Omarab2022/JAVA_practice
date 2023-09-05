@@ -1,6 +1,6 @@
 # JAVA_practice
 
-## Projects
+Welcome to my GitHub repository! This repository contains three Java projects developed using Object-Oriented Programming (OOP) principles and the Java Swing library. These projects aim to showcase my skills in building graphical user interfaces (GUIs) in Java and applying OOP concepts to create efficient and maintainable code.
 
 ### 1. Calculator
 
